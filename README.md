@@ -1,11 +1,11 @@
-# ITC-Hotels-Revenue-Optimization-Project-P9
+# ITC-Hotels-Revenue-Optimization-PowerBI-Project-P9
 
 ## Overview  
 This project aims to explore ITC Hotels' revenue data, focusing on key areas such as revenue optimization, occupancy trends, booking behavior, and cancellations. Using **Power BI**, the analysis is presented through four dashboards designed to provide actionable insights for data-driven decision-making.  
 
 ITC Hotels is a luxury hotel chain that operates multiple properties with diverse room categories and varying occupancy rates. The company wants to gain deeper insights into its overall financial performance, customer booking behavior, occupancy trends, and room category performance to optimize revenue generation, minimize cancellations, and enhance customer satisfaction. The goal of this project is to create an interactive, multi-page Power BI dashboard to provide stakeholders with real-time insights for decision-making.
 
-**Dataset Link :** https://drive.google.com/drive/folders/1MGuNzDWtKF1cp4oiaMroRvmU0ZuLp1ah
+**Dataset Link:** https://drive.google.com/drive/folders/1MGuNzDWtKF1cp4oiaMroRvmU0ZuLp1ah
 
 **Key Problem Areas to Address:**
 
